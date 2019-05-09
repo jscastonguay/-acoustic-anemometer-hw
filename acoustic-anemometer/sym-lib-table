@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MCP6S21)(type Legacy)(uri ${KIPRJMOD}/MCP6S21.lib)(options "")(descr ""))
+  (lib (name dsPIC33EVXXXGM00X_10X)(type Legacy)(uri ${KIPRJMOD}/dsPIC33EVXXXGM00X_10X.lib)(options "")(descr ""))
+)
